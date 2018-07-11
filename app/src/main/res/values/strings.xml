@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Egypt Tour Guide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Zoo">The Giza Zoo</string>
+    <string name="zoodetails">The Giza Zoo is a zoological garden in Giza. It is one of the few green areas in the city, and includes Giza\'s largest park</string>
+    <string name="Museum">Museum</string>
+    <string name="Pyramids">Pyramids</string>
+    <string name="Tower">Tower</string>
+    <string name="herb">a wide variety of herbivores exist in Giza Zoo with some of them having open cages for visitors.</string>
+    <string name="pred">a wide variety of predators exist in Giza Zoo, locked inside strong cages for safety.</string>
+    <string name="photog">you can take beautiful photographs with the animals for a cheap price.</string>
+    <string name="herbivores">Herbivores</string>
+    <string name="predators">Predators</string>
+    <string name="photograph">Photography</string>
+    <string name="cafe">Cafe shops</string>
+    <string name="cafeshops">There are dozens of cafe shops if you want to take a rest before continuing your journey.</string>
+    <string name="tower">The Cairo Tower</string>
+    <string name="towerdetails">The Cairo Tower is a free-standing concrete tower located in Cairo At 187 m (614 ft),One of Cairo\'s well-known modern monuments</string>
+    <string name="teles">A beautiful view!</string>
+    <string name="telesdetails">Witness the most beautiful view of Cairo from above!</string>
+    <string name="rest">Restaurants</string>
+    <string name="restdetails">As you go up the tower, there are dozens of cafe shops and restaurants where you can stop and enjoy a good meal</string>
+    <string name="museum">The Egyptian Museum</string>
+    <string name="museumdetails">The Museum of Egyptian Antiquities, is home to an extensive collection of ancient Egyptian antiquities. It has 120,000 items</string>
+    <string name="museum1">Mummies</string>
+    <string name="museum1details">Witness the greatness of pharaohs!, see Mummified bodies made thousands of years ago.</string>
+    <string name="museum2">Statues</string>
+    <string name="museum2details">thousands of statues of old egyptians, made of perfection!</string>
+    <string name="pyramids">Giza Pyramids</string>
+    <string name="pyramidsdetails">The Giza Pyramids, built to endure an eternity, the monumental tombs are relics of Egypt\'s Old Kingdom era.</string>
+    <string name="camels">Riding Camels</string>
+    <string name="camelsdetails">experience new adventures!</string>
+    <string name="sphinx">Unforgettable moments</string>
+    <string name="sphinxdetails">Capture unforgettable photos!</string>
+    <string name="pyr">GIZA PYRAMIDS</string>
+    <string name="mus">EGYPTIAN MUSEUM</string>
+    <string name="tow">CAIRO TOWER</string>
+    <string name="zoo">GIZA ZOO</string>
+
+
+</resources>
